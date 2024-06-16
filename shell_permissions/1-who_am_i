@@ -1,2 +1,2 @@
-#/!bin/bash
-echo "Effective username of current user: ($whoami)" 
+#!bin/bash
+echo "Effective username of current user: ($whoami)
